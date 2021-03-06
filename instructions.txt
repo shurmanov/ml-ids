@@ -1,0 +1,16 @@
+
+1 - Create anaconda env from environment-notebook.yaml
+    $ conda env create -f environment-notebook.yaml
+
+2 - Activate the environment
+    $ conda activate ml-ids-notebooks
+
+3 - Copy all .csv files to dataset folder
+
+4 - Run Jupyter from the activated environment
+    $ jupyter notebook
+
+5 - Open binary-classifier-comparison.ipynb in Jupyter
+
+
+
